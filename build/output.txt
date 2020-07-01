@@ -1,0 +1,1977 @@
+Shi-Tomasi detection with n=1723 keypoints in 9.0032 ms
+BRISK descriptor extraction in 13.2356 ms
+Shi-Tomasi detection with n=1759 keypoints in 8.43218 ms
+BRISK descriptor extraction in 13.248 ms
+Shi-Tomasi detection with n=1820 keypoints in 8.26487 ms
+BRISK descriptor extraction in 13.3503 ms
+Shi-Tomasi detection with n=1850 keypoints in 11.2608 ms
+BRISK descriptor extraction in 16.689 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.63979 ms
+BRISK descriptor extraction in 13.6386 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.92733 ms
+BRISK descriptor extraction in 15.1884 ms
+Shi-Tomasi detection with n=1877 keypoints in 7.76576 ms
+BRISK descriptor extraction in 13.5419 ms
+Shi-Tomasi detection with n=1894 keypoints in 9.60993 ms
+BRISK descriptor extraction in 13.9441 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.77829 ms
+BRISK descriptor extraction in 13.6596 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.64702 ms
+BRISK descriptor extraction in 13.998 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.29379 ms
+BRISK descriptor extraction in 13.5748 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.67157 ms
+BRISK descriptor extraction in 14.1528 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.46506 ms
+BRISK descriptor extraction in 13.9383 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.67337 ms
+BRISK descriptor extraction in 13.7248 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.82321 ms
+BRISK descriptor extraction in 13.9306 ms
+Shi-Tomasi detection with n=1957 keypoints in 8.03125 ms
+BRISK descriptor extraction in 14.3445 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.82866 ms
+BRISK descriptor extraction in 13.9772 ms
+Shi-Tomasi detection with n=1919 keypoints in 8.17515 ms
+BRISK descriptor extraction in 14.2289 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.50758 ms
+BRISK descriptor extraction in 15.082 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.70744 ms
+BRISK descriptor extraction in 13.2976 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.73692 ms
+BRISK descriptor extraction in 12.9158 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.75736 ms
+BRISK descriptor extraction in 13.5404 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.39192 ms
+BRISK descriptor extraction in 13.6122 ms
+Shi-Tomasi detection with n=1828 keypoints in 8.28704 ms
+BRISK descriptor extraction in 13.6115 ms
+Shi-Tomasi detection with n=1806 keypoints in 8.13949 ms
+BRISK descriptor extraction in 13.0759 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.01234 ms
+BRISK descriptor extraction in 13.8072 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.34168 ms
+BRISK descriptor extraction in 13.5971 ms
+Shi-Tomasi detection with n=1889 keypoints in 14.353 ms
+BRISK descriptor extraction in 13.7317 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.562 ms
+BRISK descriptor extraction in 13.8945 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.00132 ms
+BRISK descriptor extraction in 13.8132 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.77152 ms
+BRISK descriptor extraction in 13.8848 ms
+Shi-Tomasi detection with n=1930 keypoints in 8.87945 ms
+BRISK descriptor extraction in 13.9995 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.68239 ms
+BRISK descriptor extraction in 13.8187 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.59881 ms
+BRISK descriptor extraction in 13.9959 ms
+Shi-Tomasi detection with n=1957 keypoints in 8.67462 ms
+BRISK descriptor extraction in 14.4162 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.88203 ms
+BRISK descriptor extraction in 14.0274 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.50746 ms
+BRISK descriptor extraction in 14.251 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.61415 ms
+BRISK descriptor extraction in 15.1198 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.26095 ms
+BRISK descriptor extraction in 13.2105 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.92673 ms
+BRISK descriptor extraction in 12.9748 ms
+Shi-Tomasi detection with n=1723 keypoints in 7.95525 ms
+BRISK descriptor extraction in 13.3251 ms
+Shi-Tomasi detection with n=1759 keypoints in 9.80512 ms
+BRISK descriptor extraction in 12.9942 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.63605 ms
+BRISK descriptor extraction in 13.608 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.80962 ms
+BRISK descriptor extraction in 13.5021 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.88759 ms
+BRISK descriptor extraction in 13.3854 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.89448 ms
+BRISK descriptor extraction in 13.2265 ms
+Shi-Tomasi detection with n=1877 keypoints in 7.33703 ms
+BRISK descriptor extraction in 13.7676 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.56104 ms
+BRISK descriptor extraction in 13.9651 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.68866 ms
+BRISK descriptor extraction in 15.6225 ms
+Shi-Tomasi detection with n=1917 keypoints in 8.20634 ms
+BRISK descriptor extraction in 14.0238 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.63197 ms
+BRISK descriptor extraction in 13.6291 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.92634 ms
+BRISK descriptor extraction in 13.9467 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.49098 ms
+BRISK descriptor extraction in 14.0225 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.87018 ms
+BRISK descriptor extraction in 18.7536 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.74705 ms
+BRISK descriptor extraction in 13.8854 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.89482 ms
+BRISK descriptor extraction in 14.3509 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.90724 ms
+BRISK descriptor extraction in 13.876 ms
+Shi-Tomasi detection with n=1919 keypoints in 8.06859 ms
+BRISK descriptor extraction in 14.1382 ms
+Shi-Tomasi detection with n=2057 keypoints in 8.03617 ms
+BRISK descriptor extraction in 15.037 ms
+Shi-Tomasi detection with n=1723 keypoints in 7.90288 ms
+BRISK descriptor extraction in 13.3198 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.71141 ms
+BRISK descriptor extraction in 13.1816 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.41961 ms
+BRISK descriptor extraction in 13.5588 ms
+Shi-Tomasi detection with n=1850 keypoints in 9.62337 ms
+BRISK descriptor extraction in 15.3828 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.42974 ms
+BRISK descriptor extraction in 13.6642 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.88894 ms
+BRISK descriptor extraction in 13.1947 ms
+Shi-Tomasi detection with n=1877 keypoints in 7.99294 ms
+BRISK descriptor extraction in 13.3894 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.34672 ms
+BRISK descriptor extraction in 13.7179 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.94973 ms
+BRISK descriptor extraction in 14.0492 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.45493 ms
+BRISK descriptor extraction in 14.1264 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.80858 ms
+BRISK descriptor extraction in 13.6964 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.85572 ms
+BRISK descriptor extraction in 14.1176 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.47024 ms
+BRISK descriptor extraction in 13.8319 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.58118 ms
+BRISK descriptor extraction in 13.6878 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.2045 ms
+BRISK descriptor extraction in 13.6883 ms
+Shi-Tomasi detection with n=1957 keypoints in 9.62262 ms
+BRISK descriptor extraction in 14.3532 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.84905 ms
+BRISK descriptor extraction in 13.8124 ms
+Shi-Tomasi detection with n=1919 keypoints in 8.20921 ms
+BRISK descriptor extraction in 13.9153 ms
+Shi-Tomasi detection with n=2057 keypoints in 8.38416 ms
+BRISK descriptor extraction in 15.1638 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.1633 ms
+BRISK descriptor extraction in 13.2705 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.49622 ms
+BRISK descriptor extraction in 13.1658 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.93209 ms
+BRISK descriptor extraction in 13.6598 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.73212 ms
+BRISK descriptor extraction in 13.4088 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.65498 ms
+BRISK descriptor extraction in 13.4722 ms
+Shi-Tomasi detection with n=1806 keypoints in 8.00756 ms
+BRISK descriptor extraction in 13.1804 ms
+Shi-Tomasi detection with n=1877 keypoints in 9.21684 ms
+BRISK descriptor extraction in 13.7908 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.10234 ms
+BRISK descriptor extraction in 15.4665 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.42974 ms
+BRISK descriptor extraction in 13.6904 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.2797 ms
+BRISK descriptor extraction in 13.9777 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.06533 ms
+BRISK descriptor extraction in 13.8173 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.72248 ms
+BRISK descriptor extraction in 13.896 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.43088 ms
+BRISK descriptor extraction in 14.212 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.68744 ms
+BRISK descriptor extraction in 13.6991 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.28909 ms
+BRISK descriptor extraction in 13.6609 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.85602 ms
+BRISK descriptor extraction in 14.6791 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.57963 ms
+BRISK descriptor extraction in 14.0209 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.61168 ms
+BRISK descriptor extraction in 14.1157 ms
+Shi-Tomasi detection with n=2057 keypoints in 8.32901 ms
+BRISK descriptor extraction in 14.9687 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.49446 ms
+BRISK descriptor extraction in 13.0632 ms
+Shi-Tomasi detection with n=1759 keypoints in 8.12448 ms
+BRISK descriptor extraction in 12.9999 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.60555 ms
+BRISK descriptor extraction in 13.517 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.19996 ms
+BRISK descriptor extraction in 13.3909 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.94565 ms
+BRISK descriptor extraction in 13.617 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.62116 ms
+BRISK descriptor extraction in 13.3943 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.52811 ms
+BRISK descriptor extraction in 13.554 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.47904 ms
+BRISK descriptor extraction in 13.6707 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.31549 ms
+BRISK descriptor extraction in 13.8375 ms
+Shi-Tomasi detection with n=1917 keypoints in 8.47928 ms
+BRISK descriptor extraction in 13.8194 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.90919 ms
+BRISK descriptor extraction in 13.7359 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.5748 ms
+BRISK descriptor extraction in 13.7139 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.42474 ms
+BRISK descriptor extraction in 14.0014 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.41154 ms
+BRISK descriptor extraction in 13.7472 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.57341 ms
+BRISK descriptor extraction in 13.8103 ms
+Shi-Tomasi detection with n=1957 keypoints in 8.50084 ms
+BRISK descriptor extraction in 14.3217 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.38692 ms
+BRISK descriptor extraction in 13.8113 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.50389 ms
+BRISK descriptor extraction in 14.1602 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.61812 ms
+BRISK descriptor extraction in 15.0047 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.20346 ms
+BRISK descriptor extraction in 13.3565 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.99528 ms
+BRISK descriptor extraction in 13.2274 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.97001 ms
+BRISK descriptor extraction in 13.5681 ms
+Shi-Tomasi detection with n=1850 keypoints in 8.04594 ms
+BRISK descriptor extraction in 13.656 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.80764 ms
+BRISK descriptor extraction in 13.6503 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.60248 ms
+BRISK descriptor extraction in 13.1243 ms
+Shi-Tomasi detection with n=1877 keypoints in 7.39501 ms
+BRISK descriptor extraction in 13.5897 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.80751 ms
+BRISK descriptor extraction in 13.8367 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.42718 ms
+BRISK descriptor extraction in 13.7585 ms
+Shi-Tomasi detection with n=1917 keypoints in 8.18638 ms
+BRISK descriptor extraction in 13.7913 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.8804 ms
+BRISK descriptor extraction in 13.8564 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.59512 ms
+BRISK descriptor extraction in 13.9074 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.9062 ms
+BRISK descriptor extraction in 13.985 ms
+Shi-Tomasi detection with n=1881 keypoints in 8.17171 ms
+BRISK descriptor extraction in 13.7852 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.45137 ms
+BRISK descriptor extraction in 13.8601 ms
+Shi-Tomasi detection with n=1957 keypoints in 8.6045 ms
+BRISK descriptor extraction in 14.2648 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.91392 ms
+BRISK descriptor extraction in 13.826 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.81328 ms
+BRISK descriptor extraction in 22.5641 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.48056 ms
+BRISK descriptor extraction in 14.9845 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.13815 ms
+BRISK descriptor extraction in 13.0803 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.8679 ms
+BRISK descriptor extraction in 13.1102 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.98145 ms
+BRISK descriptor extraction in 13.6029 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.87468 ms
+BRISK descriptor extraction in 13.6166 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.66332 ms
+BRISK descriptor extraction in 13.6615 ms
+Shi-Tomasi detection with n=1806 keypoints in 8.00507 ms
+BRISK descriptor extraction in 13.2904 ms
+Shi-Tomasi detection with n=1877 keypoints in 7.66545 ms
+BRISK descriptor extraction in 13.5663 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.55369 ms
+BRISK descriptor extraction in 13.5032 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.63495 ms
+BRISK descriptor extraction in 13.6999 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.93213 ms
+BRISK descriptor extraction in 13.866 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.47858 ms
+BRISK descriptor extraction in 13.6133 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.55607 ms
+BRISK descriptor extraction in 13.847 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.53937 ms
+BRISK descriptor extraction in 14.1693 ms
+Shi-Tomasi detection with n=1881 keypoints in 8.0194 ms
+BRISK descriptor extraction in 13.9319 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.98115 ms
+BRISK descriptor extraction in 15.7244 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.36824 ms
+BRISK descriptor extraction in 14.5551 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.8912 ms
+BRISK descriptor extraction in 14.0133 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.55309 ms
+BRISK descriptor extraction in 14.3405 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.81987 ms
+BRISK descriptor extraction in 15.2264 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.77336 ms
+BRISK descriptor extraction in 13.1433 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.82381 ms
+BRISK descriptor extraction in 13.0509 ms
+Shi-Tomasi detection with n=1820 keypoints in 8.19374 ms
+BRISK descriptor extraction in 13.5914 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.70805 ms
+BRISK descriptor extraction in 14.5917 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.74148 ms
+BRISK descriptor extraction in 13.6091 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.75296 ms
+BRISK descriptor extraction in 13.4101 ms
+Shi-Tomasi detection with n=1877 keypoints in 7.96726 ms
+BRISK descriptor extraction in 13.5615 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.8007 ms
+BRISK descriptor extraction in 13.8848 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.78282 ms
+BRISK descriptor extraction in 13.7257 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.63306 ms
+BRISK descriptor extraction in 13.9478 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.15584 ms
+BRISK descriptor extraction in 13.6351 ms
+Shi-Tomasi detection with n=1912 keypoints in 8.49779 ms
+BRISK descriptor extraction in 13.8936 ms
+Shi-Tomasi detection with n=1930 keypoints in 8.43442 ms
+BRISK descriptor extraction in 13.9745 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.37144 ms
+BRISK descriptor extraction in 13.492 ms
+Shi-Tomasi detection with n=1886 keypoints in 8.55663 ms
+BRISK descriptor extraction in 13.6963 ms
+Shi-Tomasi detection with n=1957 keypoints in 8.62731 ms
+BRISK descriptor extraction in 14.3997 ms
+Shi-Tomasi detection with n=1888 keypoints in 9.55693 ms
+BRISK descriptor extraction in 13.9845 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.37127 ms
+BRISK descriptor extraction in 14.3363 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.62474 ms
+BRISK descriptor extraction in 14.8811 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.21843 ms
+BRISK descriptor extraction in 13.3617 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.54542 ms
+BRISK descriptor extraction in 12.9245 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.95695 ms
+BRISK descriptor extraction in 13.3488 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.65923 ms
+BRISK descriptor extraction in 13.6022 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.94106 ms
+BRISK descriptor extraction in 13.4239 ms
+Shi-Tomasi detection with n=1806 keypoints in 9.42498 ms
+BRISK descriptor extraction in 12.9741 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.04383 ms
+BRISK descriptor extraction in 13.6444 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.58036 ms
+BRISK descriptor extraction in 13.7052 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.72414 ms
+BRISK descriptor extraction in 13.6687 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.63278 ms
+BRISK descriptor extraction in 14.0855 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.11034 ms
+BRISK descriptor extraction in 13.5149 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.48492 ms
+BRISK descriptor extraction in 13.9671 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.70464 ms
+BRISK descriptor extraction in 14.0351 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.38828 ms
+BRISK descriptor extraction in 13.7561 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.50601 ms
+BRISK descriptor extraction in 13.8817 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.65887 ms
+BRISK descriptor extraction in 14.6281 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.59709 ms
+BRISK descriptor extraction in 13.8387 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.70031 ms
+BRISK descriptor extraction in 14.1004 ms
+Shi-Tomasi detection with n=2057 keypoints in 8.29947 ms
+BRISK descriptor extraction in 15.1089 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.59181 ms
+BRISK descriptor extraction in 13.3459 ms
+Shi-Tomasi detection with n=1759 keypoints in 8.57974 ms
+BRISK descriptor extraction in 13.0766 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.90854 ms
+BRISK descriptor extraction in 13.615 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.85965 ms
+BRISK descriptor extraction in 13.7359 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.40794 ms
+BRISK descriptor extraction in 13.5191 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.82894 ms
+BRISK descriptor extraction in 13.3582 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.12749 ms
+BRISK descriptor extraction in 13.7788 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.42151 ms
+BRISK descriptor extraction in 13.457 ms
+Shi-Tomasi detection with n=1889 keypoints in 12.5855 ms
+BRISK descriptor extraction in 13.6759 ms
+Shi-Tomasi detection with n=1917 keypoints in 8.33689 ms
+BRISK descriptor extraction in 13.8498 ms
+Shi-Tomasi detection with n=1874 keypoints in 10.1446 ms
+BRISK descriptor extraction in 13.5463 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.9745 ms
+BRISK descriptor extraction in 13.942 ms
+Shi-Tomasi detection with n=1930 keypoints in 8.733 ms
+BRISK descriptor extraction in 15.5328 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.49072 ms
+BRISK descriptor extraction in 13.7691 ms
+Shi-Tomasi detection with n=1886 keypoints in 9.80061 ms
+BRISK descriptor extraction in 13.8619 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.41433 ms
+BRISK descriptor extraction in 14.3768 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.87787 ms
+BRISK descriptor extraction in 13.9653 ms
+Shi-Tomasi detection with n=1919 keypoints in 8.00104 ms
+BRISK descriptor extraction in 15.7464 ms
+Shi-Tomasi detection with n=2057 keypoints in 9.63315 ms
+BRISK descriptor extraction in 15.1589 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.83501 ms
+BRISK descriptor extraction in 13.3396 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.7713 ms
+BRISK descriptor extraction in 13.1407 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.38803 ms
+BRISK descriptor extraction in 13.5757 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.43462 ms
+BRISK descriptor extraction in 14.517 ms
+Shi-Tomasi detection with n=1828 keypoints in 8.31449 ms
+BRISK descriptor extraction in 13.6521 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.81794 ms
+BRISK descriptor extraction in 13.3285 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.00671 ms
+BRISK descriptor extraction in 13.7605 ms
+Shi-Tomasi detection with n=1894 keypoints in 9.6465 ms
+BRISK descriptor extraction in 14.1108 ms
+Shi-Tomasi detection with n=1889 keypoints in 8.19202 ms
+BRISK descriptor extraction in 13.8409 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.47851 ms
+BRISK descriptor extraction in 13.8238 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.005 ms
+BRISK descriptor extraction in 14.1069 ms
+Shi-Tomasi detection with n=1912 keypoints in 8.32339 ms
+BRISK descriptor extraction in 13.9129 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.55279 ms
+BRISK descriptor extraction in 13.9729 ms
+Shi-Tomasi detection with n=1881 keypoints in 8.00119 ms
+BRISK descriptor extraction in 13.7871 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.78395 ms
+BRISK descriptor extraction in 13.7391 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.77595 ms
+BRISK descriptor extraction in 14.3459 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.63144 ms
+BRISK descriptor extraction in 13.9138 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.52548 ms
+BRISK descriptor extraction in 14.1143 ms
+Shi-Tomasi detection with n=2057 keypoints in 8.50093 ms
+BRISK descriptor extraction in 15.0885 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.53774 ms
+BRISK descriptor extraction in 13.2328 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.22498 ms
+BRISK descriptor extraction in 13.1683 ms
+Shi-Tomasi detection with n=1820 keypoints in 8.15236 ms
+BRISK descriptor extraction in 13.5412 ms
+Shi-Tomasi detection with n=1850 keypoints in 8.33729 ms
+BRISK descriptor extraction in 14.0124 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.70202 ms
+BRISK descriptor extraction in 13.6182 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.44805 ms
+BRISK descriptor extraction in 13.193 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.31106 ms
+BRISK descriptor extraction in 13.7003 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.38233 ms
+BRISK descriptor extraction in 13.6768 ms
+Shi-Tomasi detection with n=1889 keypoints in 8.51499 ms
+BRISK descriptor extraction in 13.628 ms
+Shi-Tomasi detection with n=1917 keypoints in 8.44317 ms
+BRISK descriptor extraction in 13.8291 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.70522 ms
+BRISK descriptor extraction in 13.7325 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.4051 ms
+BRISK descriptor extraction in 14.116 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.78425 ms
+BRISK descriptor extraction in 14.0014 ms
+Shi-Tomasi detection with n=1881 keypoints in 10.5638 ms
+BRISK descriptor extraction in 13.7733 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.81904 ms
+BRISK descriptor extraction in 13.8775 ms
+Shi-Tomasi detection with n=1957 keypoints in 8.06284 ms
+BRISK descriptor extraction in 14.3996 ms
+Shi-Tomasi detection with n=1888 keypoints in 8.23816 ms
+BRISK descriptor extraction in 13.8125 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.44951 ms
+BRISK descriptor extraction in 14.104 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.46871 ms
+BRISK descriptor extraction in 14.9923 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.64756 ms
+BRISK descriptor extraction in 13.1984 ms
+Shi-Tomasi detection with n=1759 keypoints in 8.40945 ms
+BRISK descriptor extraction in 13.1946 ms
+Shi-Tomasi detection with n=1820 keypoints in 8.01452 ms
+BRISK descriptor extraction in 13.5894 ms
+Shi-Tomasi detection with n=1850 keypoints in 9.48562 ms
+BRISK descriptor extraction in 15.8253 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.57341 ms
+BRISK descriptor extraction in 13.6584 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.73103 ms
+BRISK descriptor extraction in 13.1945 ms
+Shi-Tomasi detection with n=1877 keypoints in 9.46427 ms
+BRISK descriptor extraction in 13.5526 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.40486 ms
+BRISK descriptor extraction in 13.7645 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.82993 ms
+BRISK descriptor extraction in 13.7695 ms
+Shi-Tomasi detection with n=1917 keypoints in 8.24325 ms
+BRISK descriptor extraction in 13.8777 ms
+Shi-Tomasi detection with n=1874 keypoints in 9.92709 ms
+BRISK descriptor extraction in 13.5389 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.48982 ms
+BRISK descriptor extraction in 13.9613 ms
+Shi-Tomasi detection with n=1930 keypoints in 8.32038 ms
+BRISK descriptor extraction in 14.056 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.88019 ms
+BRISK descriptor extraction in 13.7554 ms
+Shi-Tomasi detection with n=1886 keypoints in 8.28458 ms
+BRISK descriptor extraction in 13.827 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.5606 ms
+BRISK descriptor extraction in 14.3798 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.588 ms
+BRISK descriptor extraction in 13.9736 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.33844 ms
+BRISK descriptor extraction in 14.2419 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.89688 ms
+BRISK descriptor extraction in 14.7947 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.21077 ms
+BRISK descriptor extraction in 13.2241 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.59218 ms
+BRISK descriptor extraction in 13.3588 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.85391 ms
+BRISK descriptor extraction in 13.6279 ms
+Shi-Tomasi detection with n=1850 keypoints in 8.07784 ms
+BRISK descriptor extraction in 13.6229 ms
+Shi-Tomasi detection with n=1828 keypoints in 8.36382 ms
+BRISK descriptor extraction in 13.6057 ms
+Shi-Tomasi detection with n=1806 keypoints in 9.60319 ms
+BRISK descriptor extraction in 13.2013 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.05318 ms
+BRISK descriptor extraction in 13.774 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.10221 ms
+BRISK descriptor extraction in 13.6893 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.72256 ms
+BRISK descriptor extraction in 13.6588 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.58168 ms
+BRISK descriptor extraction in 13.9049 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.40518 ms
+BRISK descriptor extraction in 13.3488 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.71606 ms
+BRISK descriptor extraction in 13.9228 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.53921 ms
+BRISK descriptor extraction in 14.2725 ms
+Shi-Tomasi detection with n=1881 keypoints in 8.83435 ms
+BRISK descriptor extraction in 14.0503 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.78475 ms
+BRISK descriptor extraction in 13.8226 ms
+Shi-Tomasi detection with n=1957 keypoints in 8.4541 ms
+BRISK descriptor extraction in 14.5736 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.47546 ms
+BRISK descriptor extraction in 14.0367 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.43533 ms
+BRISK descriptor extraction in 14.4309 ms
+Shi-Tomasi detection with n=2057 keypoints in 10.2451 ms
+BRISK descriptor extraction in 14.991 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.07753 ms
+BRISK descriptor extraction in 13.0163 ms
+Shi-Tomasi detection with n=1759 keypoints in 18.0227 ms
+BRISK descriptor extraction in 13.2639 ms
+Shi-Tomasi detection with n=1820 keypoints in 8.09395 ms
+BRISK descriptor extraction in 16.4367 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.68602 ms
+BRISK descriptor extraction in 13.6667 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.46852 ms
+BRISK descriptor extraction in 13.6965 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.73489 ms
+BRISK descriptor extraction in 13.1625 ms
+Shi-Tomasi detection with n=1877 keypoints in 7.27869 ms
+BRISK descriptor extraction in 13.7052 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.88917 ms
+BRISK descriptor extraction in 13.6619 ms
+Shi-Tomasi detection with n=1889 keypoints in 10.0523 ms
+BRISK descriptor extraction in 13.8911 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.53304 ms
+BRISK descriptor extraction in 13.9066 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.05249 ms
+BRISK descriptor extraction in 13.5911 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.84288 ms
+BRISK descriptor extraction in 13.9183 ms
+Shi-Tomasi detection with n=1930 keypoints in 8.87041 ms
+BRISK descriptor extraction in 14.0466 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.90408 ms
+BRISK descriptor extraction in 13.7734 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.35772 ms
+BRISK descriptor extraction in 14.0629 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.77619 ms
+BRISK descriptor extraction in 14.5585 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.29581 ms
+BRISK descriptor extraction in 13.8397 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.63735 ms
+BRISK descriptor extraction in 14.1537 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.68779 ms
+BRISK descriptor extraction in 14.9875 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.38142 ms
+BRISK descriptor extraction in 13.0902 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.61442 ms
+BRISK descriptor extraction in 13.1572 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.58066 ms
+BRISK descriptor extraction in 13.578 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.59101 ms
+BRISK descriptor extraction in 13.6309 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.43212 ms
+BRISK descriptor extraction in 13.6068 ms
+Shi-Tomasi detection with n=1806 keypoints in 9.02032 ms
+BRISK descriptor extraction in 13.2351 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.22378 ms
+BRISK descriptor extraction in 13.8333 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.12043 ms
+BRISK descriptor extraction in 13.9088 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.55 ms
+BRISK descriptor extraction in 13.813 ms
+Shi-Tomasi detection with n=1917 keypoints in 8.32453 ms
+BRISK descriptor extraction in 13.8569 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.57232 ms
+BRISK descriptor extraction in 13.6078 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.88962 ms
+BRISK descriptor extraction in 13.9342 ms
+Shi-Tomasi detection with n=1930 keypoints in 8.13631 ms
+BRISK descriptor extraction in 14.0877 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.5406 ms
+BRISK descriptor extraction in 13.6287 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.57503 ms
+BRISK descriptor extraction in 13.8368 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.44206 ms
+BRISK descriptor extraction in 14.3626 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.46089 ms
+BRISK descriptor extraction in 13.8418 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.72766 ms
+BRISK descriptor extraction in 14.1015 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.77759 ms
+BRISK descriptor extraction in 15.0459 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.1928 ms
+BRISK descriptor extraction in 13.3768 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.75611 ms
+BRISK descriptor extraction in 13.1579 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.55087 ms
+BRISK descriptor extraction in 13.5866 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.5616 ms
+BRISK descriptor extraction in 13.6133 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.39182 ms
+BRISK descriptor extraction in 13.4467 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.4382 ms
+BRISK descriptor extraction in 13.2213 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.33492 ms
+BRISK descriptor extraction in 13.5374 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.05644 ms
+BRISK descriptor extraction in 13.6604 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.40534 ms
+BRISK descriptor extraction in 13.5166 ms
+Shi-Tomasi detection with n=1917 keypoints in 8.83955 ms
+BRISK descriptor extraction in 13.748 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.41325 ms
+BRISK descriptor extraction in 13.6459 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.61199 ms
+BRISK descriptor extraction in 13.9383 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.62617 ms
+BRISK descriptor extraction in 14.0107 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.58201 ms
+BRISK descriptor extraction in 13.742 ms
+Shi-Tomasi detection with n=1886 keypoints in 8.63807 ms
+BRISK descriptor extraction in 13.831 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.72154 ms
+BRISK descriptor extraction in 14.4166 ms
+Shi-Tomasi detection with n=1888 keypoints in 9.32317 ms
+BRISK descriptor extraction in 13.795 ms
+Shi-Tomasi detection with n=1919 keypoints in 8.15033 ms
+BRISK descriptor extraction in 14.2569 ms
+Shi-Tomasi detection with n=2057 keypoints in 8.45462 ms
+BRISK descriptor extraction in 15.001 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.64607 ms
+BRISK descriptor extraction in 13.0742 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.91601 ms
+BRISK descriptor extraction in 13.2083 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.57683 ms
+BRISK descriptor extraction in 13.5022 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.8797 ms
+BRISK descriptor extraction in 13.5942 ms
+Shi-Tomasi detection with n=1828 keypoints in 8.30764 ms
+BRISK descriptor extraction in 14.2156 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.94588 ms
+BRISK descriptor extraction in 13.3494 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.53226 ms
+BRISK descriptor extraction in 13.7198 ms
+Shi-Tomasi detection with n=1894 keypoints in 9.01904 ms
+BRISK descriptor extraction in 13.8848 ms
+Shi-Tomasi detection with n=1889 keypoints in 8.29089 ms
+BRISK descriptor extraction in 14.008 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.98739 ms
+BRISK descriptor extraction in 13.6239 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.00003 ms
+BRISK descriptor extraction in 13.6348 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.9627 ms
+BRISK descriptor extraction in 13.7224 ms
+Shi-Tomasi detection with n=1930 keypoints in 8.56816 ms
+BRISK descriptor extraction in 14.2894 ms
+Shi-Tomasi detection with n=1881 keypoints in 8.03807 ms
+BRISK descriptor extraction in 13.7661 ms
+Shi-Tomasi detection with n=1886 keypoints in 9.26575 ms
+BRISK descriptor extraction in 13.8254 ms
+Shi-Tomasi detection with n=1957 keypoints in 8.6599 ms
+BRISK descriptor extraction in 14.59 ms
+Shi-Tomasi detection with n=1888 keypoints in 9.01221 ms
+BRISK descriptor extraction in 13.7977 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.98735 ms
+BRISK descriptor extraction in 14.1413 ms
+Shi-Tomasi detection with n=2057 keypoints in 8.28395 ms
+BRISK descriptor extraction in 15.0078 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.96875 ms
+BRISK descriptor extraction in 13.3051 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.96819 ms
+BRISK descriptor extraction in 13.2765 ms
+Shi-Tomasi detection with n=1820 keypoints in 8.64325 ms
+BRISK descriptor extraction in 13.373 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.92378 ms
+BRISK descriptor extraction in 13.6652 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.8126 ms
+BRISK descriptor extraction in 13.7253 ms
+Shi-Tomasi detection with n=1806 keypoints in 8.64963 ms
+BRISK descriptor extraction in 13.412 ms
+Shi-Tomasi detection with n=1877 keypoints in 7.95936 ms
+BRISK descriptor extraction in 13.7946 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.46879 ms
+BRISK descriptor extraction in 13.7892 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.61458 ms
+BRISK descriptor extraction in 13.9257 ms
+Shi-Tomasi detection with n=1917 keypoints in 9.15379 ms
+BRISK descriptor extraction in 13.8975 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.69376 ms
+BRISK descriptor extraction in 13.6086 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.63791 ms
+BRISK descriptor extraction in 14.2648 ms
+Shi-Tomasi detection with n=1930 keypoints in 8.52335 ms
+BRISK descriptor extraction in 14.2541 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.53015 ms
+BRISK descriptor extraction in 14.4911 ms
+Shi-Tomasi detection with n=1886 keypoints in 9.91101 ms
+BRISK descriptor extraction in 13.9982 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.8228 ms
+BRISK descriptor extraction in 14.559 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.7934 ms
+BRISK descriptor extraction in 14.1308 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.43751 ms
+BRISK descriptor extraction in 14.3976 ms
+Shi-Tomasi detection with n=2057 keypoints in 8.40907 ms
+BRISK descriptor extraction in 15.0209 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.85097 ms
+BRISK descriptor extraction in 13.3113 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.35153 ms
+BRISK descriptor extraction in 13.1624 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.90825 ms
+BRISK descriptor extraction in 13.4339 ms
+Shi-Tomasi detection with n=1850 keypoints in 10.0963 ms
+BRISK descriptor extraction in 13.6601 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.68971 ms
+BRISK descriptor extraction in 13.5019 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.85126 ms
+BRISK descriptor extraction in 13.098 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.01684 ms
+BRISK descriptor extraction in 13.573 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.26961 ms
+BRISK descriptor extraction in 13.7437 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.60293 ms
+BRISK descriptor extraction in 13.7023 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.36855 ms
+BRISK descriptor extraction in 14.0598 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.38406 ms
+BRISK descriptor extraction in 13.3242 ms
+Shi-Tomasi detection with n=1759 keypoints in 9.00905 ms
+BRISK descriptor extraction in 13.0891 ms
+Shi-Tomasi detection with n=1820 keypoints in 8.31712 ms
+BRISK descriptor extraction in 13.9209 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.2754 ms
+BRISK descriptor extraction in 14.0813 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.83625 ms
+BRISK descriptor extraction in 13.48 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.44069 ms
+BRISK descriptor extraction in 13.2156 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.39471 ms
+BRISK descriptor extraction in 13.8239 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.05016 ms
+BRISK descriptor extraction in 13.8943 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.48704 ms
+BRISK descriptor extraction in 13.6544 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.51914 ms
+BRISK descriptor extraction in 14.0887 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.69935 ms
+BRISK descriptor extraction in 13.5498 ms
+Shi-Tomasi detection with n=1912 keypoints in 8.72936 ms
+BRISK descriptor extraction in 13.8978 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.75629 ms
+BRISK descriptor extraction in 14.1157 ms
+Shi-Tomasi detection with n=1881 keypoints in 9.31222 ms
+BRISK descriptor extraction in 14.1383 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.65282 ms
+BRISK descriptor extraction in 13.8626 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.492 ms
+BRISK descriptor extraction in 14.3587 ms
+Shi-Tomasi detection with n=1888 keypoints in 8.23204 ms
+BRISK descriptor extraction in 13.9068 ms
+Shi-Tomasi detection with n=1919 keypoints in 8.29619 ms
+BRISK descriptor extraction in 14.7739 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.60645 ms
+BRISK descriptor extraction in 15.3228 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.03294 ms
+BRISK descriptor extraction in 13.5454 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.65525 ms
+BRISK descriptor extraction in 13.2171 ms
+Shi-Tomasi detection with n=1820 keypoints in 8.53505 ms
+BRISK descriptor extraction in 13.4128 ms
+Shi-Tomasi detection with n=1850 keypoints in 10.1073 ms
+BRISK descriptor extraction in 13.6924 ms
+Shi-Tomasi detection with n=1828 keypoints in 8.55971 ms
+BRISK descriptor extraction in 13.3904 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.72108 ms
+BRISK descriptor extraction in 13.283 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.1477 ms
+BRISK descriptor extraction in 13.7336 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.90431 ms
+BRISK descriptor extraction in 13.7889 ms
+Shi-Tomasi detection with n=1889 keypoints in 8.01572 ms
+BRISK descriptor extraction in 13.7574 ms
+Shi-Tomasi detection with n=1917 keypoints in 8.34986 ms
+BRISK descriptor extraction in 13.8633 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.61154 ms
+BRISK descriptor extraction in 13.6215 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.43522 ms
+BRISK descriptor extraction in 13.988 ms
+Shi-Tomasi detection with n=1930 keypoints in 8.06938 ms
+BRISK descriptor extraction in 14.0261 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.7 ms
+BRISK descriptor extraction in 13.8233 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.73851 ms
+BRISK descriptor extraction in 13.85 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.76444 ms
+BRISK descriptor extraction in 14.2264 ms
+Shi-Tomasi detection with n=1888 keypoints in 8.10032 ms
+BRISK descriptor extraction in 13.7512 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.96221 ms
+BRISK descriptor extraction in 14.124 ms
+Shi-Tomasi detection with n=2057 keypoints in 8.06774 ms
+BRISK descriptor extraction in 15.064 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.88704 ms
+BRISK descriptor extraction in 13.346 ms
+Shi-Tomasi detection with n=1759 keypoints in 8.17525 ms
+BRISK descriptor extraction in 13.1498 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.30309 ms
+BRISK descriptor extraction in 13.841 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.26791 ms
+BRISK descriptor extraction in 13.423 ms
+Shi-Tomasi detection with n=1828 keypoints in 8.03762 ms
+BRISK descriptor extraction in 13.6672 ms
+Shi-Tomasi detection with n=1806 keypoints in 8.18285 ms
+BRISK descriptor extraction in 13.6242 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.31028 ms
+BRISK descriptor extraction in 13.8542 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.63546 ms
+BRISK descriptor extraction in 13.9319 ms
+Shi-Tomasi detection with n=1889 keypoints in 10.6302 ms
+BRISK descriptor extraction in 14.1606 ms
+Shi-Tomasi detection with n=1917 keypoints in 9.54855 ms
+BRISK descriptor extraction in 14.1316 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.94292 ms
+BRISK descriptor extraction in 13.8549 ms
+Shi-Tomasi detection with n=1912 keypoints in 8.57238 ms
+BRISK descriptor extraction in 14.1276 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.52909 ms
+BRISK descriptor extraction in 13.9504 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.38884 ms
+BRISK descriptor extraction in 14.3087 ms
+Shi-Tomasi detection with n=1886 keypoints in 8.59013 ms
+BRISK descriptor extraction in 14.1407 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.6127 ms
+BRISK descriptor extraction in 14.4031 ms
+Shi-Tomasi detection with n=1888 keypoints in 8.02097 ms
+BRISK descriptor extraction in 14.2462 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.67988 ms
+BRISK descriptor extraction in 14.2021 ms
+Shi-Tomasi detection with n=2057 keypoints in 8.35304 ms
+BRISK descriptor extraction in 14.8235 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.06471 ms
+BRISK descriptor extraction in 13.129 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.50095 ms
+BRISK descriptor extraction in 13.2258 ms
+Shi-Tomasi detection with n=1820 keypoints in 8.27553 ms
+BRISK descriptor extraction in 13.4159 ms
+Shi-Tomasi detection with n=1850 keypoints in 8.02635 ms
+BRISK descriptor extraction in 13.8387 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.85844 ms
+BRISK descriptor extraction in 13.8919 ms
+Shi-Tomasi detection with n=1806 keypoints in 8.34687 ms
+BRISK descriptor extraction in 13.1804 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.15694 ms
+BRISK descriptor extraction in 13.5772 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.75759 ms
+BRISK descriptor extraction in 13.7691 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.53674 ms
+BRISK descriptor extraction in 13.7347 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.64281 ms
+BRISK descriptor extraction in 14.1367 ms
+Shi-Tomasi detection with n=1874 keypoints in 9.33984 ms
+BRISK descriptor extraction in 13.6497 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.48242 ms
+BRISK descriptor extraction in 14.0064 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.40731 ms
+BRISK descriptor extraction in 14.0747 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.82165 ms
+BRISK descriptor extraction in 13.9427 ms
+Shi-Tomasi detection with n=1886 keypoints in 8.14166 ms
+BRISK descriptor extraction in 14.044 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.8086 ms
+BRISK descriptor extraction in 14.4416 ms
+Shi-Tomasi detection with n=1888 keypoints in 9.30204 ms
+BRISK descriptor extraction in 13.8525 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.76682 ms
+BRISK descriptor extraction in 14.1733 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.63972 ms
+BRISK descriptor extraction in 15.0569 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.82986 ms
+BRISK descriptor extraction in 13.368 ms
+Shi-Tomasi detection with n=1759 keypoints in 10.1677 ms
+BRISK descriptor extraction in 13.3006 ms
+Shi-Tomasi detection with n=1820 keypoints in 9.25083 ms
+BRISK descriptor extraction in 13.4171 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.76978 ms
+BRISK descriptor extraction in 13.7628 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.58343 ms
+BRISK descriptor extraction in 13.4947 ms
+Shi-Tomasi detection with n=1806 keypoints in 8.72968 ms
+BRISK descriptor extraction in 13.409 ms
+Shi-Tomasi detection with n=1877 keypoints in 7.62654 ms
+BRISK descriptor extraction in 13.7312 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.58818 ms
+BRISK descriptor extraction in 14.0033 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.58902 ms
+BRISK descriptor extraction in 13.9843 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.83262 ms
+BRISK descriptor extraction in 14.4148 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.4628 ms
+BRISK descriptor extraction in 13.8904 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.90083 ms
+BRISK descriptor extraction in 14.0714 ms
+Shi-Tomasi detection with n=1930 keypoints in 8.85725 ms
+BRISK descriptor extraction in 14.239 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.30992 ms
+BRISK descriptor extraction in 14.062 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.85679 ms
+BRISK descriptor extraction in 14.0579 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.78579 ms
+BRISK descriptor extraction in 14.5971 ms
+Shi-Tomasi detection with n=1888 keypoints in 8.1115 ms
+BRISK descriptor extraction in 14.0963 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.87159 ms
+BRISK descriptor extraction in 16.2016 ms
+Shi-Tomasi detection with n=2057 keypoints in 8.95046 ms
+BRISK descriptor extraction in 15.4487 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.45801 ms
+BRISK descriptor extraction in 13.3133 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.77652 ms
+BRISK descriptor extraction in 13.1528 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.40205 ms
+BRISK descriptor extraction in 13.6602 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.46104 ms
+BRISK descriptor extraction in 13.7498 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.24907 ms
+BRISK descriptor extraction in 13.2847 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.8608 ms
+BRISK descriptor extraction in 13.227 ms
+Shi-Tomasi detection with n=1877 keypoints in 7.78859 ms
+BRISK descriptor extraction in 13.5868 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.88789 ms
+BRISK descriptor extraction in 13.9219 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.81619 ms
+BRISK descriptor extraction in 13.9429 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.34274 ms
+BRISK descriptor extraction in 14.1516 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.81182 ms
+BRISK descriptor extraction in 13.6107 ms
+Shi-Tomasi detection with n=1912 keypoints in 8.20702 ms
+BRISK descriptor extraction in 14.3121 ms
+Shi-Tomasi detection with n=1930 keypoints in 8.27198 ms
+BRISK descriptor extraction in 14.0132 ms
+Shi-Tomasi detection with n=1881 keypoints in 8.58743 ms
+BRISK descriptor extraction in 13.5565 ms
+Shi-Tomasi detection with n=1886 keypoints in 8.65507 ms
+BRISK descriptor extraction in 13.9155 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.83328 ms
+BRISK descriptor extraction in 14.2663 ms
+Shi-Tomasi detection with n=1888 keypoints in 8.58373 ms
+BRISK descriptor extraction in 13.8849 ms
+Shi-Tomasi detection with n=1919 keypoints in 8.12234 ms
+BRISK descriptor extraction in 14.2571 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.63336 ms
+BRISK descriptor extraction in 15.266 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.12098 ms
+BRISK descriptor extraction in 13.0645 ms
+Shi-Tomasi detection with n=1759 keypoints in 8.39422 ms
+BRISK descriptor extraction in 12.961 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.25474 ms
+BRISK descriptor extraction in 13.3836 ms
+Shi-Tomasi detection with n=1850 keypoints in 8.00838 ms
+BRISK descriptor extraction in 13.6756 ms
+Shi-Tomasi detection with n=1828 keypoints in 8.06412 ms
+BRISK descriptor extraction in 13.5093 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.81763 ms
+BRISK descriptor extraction in 13.4927 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.24066 ms
+BRISK descriptor extraction in 13.8603 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.35317 ms
+BRISK descriptor extraction in 13.9216 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.62029 ms
+BRISK descriptor extraction in 13.9458 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.46666 ms
+BRISK descriptor extraction in 14.1473 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.14098 ms
+BRISK descriptor extraction in 13.9035 ms
+Shi-Tomasi detection with n=1912 keypoints in 8.12511 ms
+BRISK descriptor extraction in 14.1185 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.90928 ms
+BRISK descriptor extraction in 14.2314 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.52947 ms
+BRISK descriptor extraction in 14.0606 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.94861 ms
+BRISK descriptor extraction in 14.0054 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.79227 ms
+BRISK descriptor extraction in 14.5199 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.96058 ms
+BRISK descriptor extraction in 15.0031 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.78539 ms
+BRISK descriptor extraction in 14.6494 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.69879 ms
+BRISK descriptor extraction in 15.1714 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.79817 ms
+BRISK descriptor extraction in 13.317 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.51907 ms
+BRISK descriptor extraction in 13.1811 ms
+Shi-Tomasi detection with n=1820 keypoints in 8.05964 ms
+BRISK descriptor extraction in 13.4726 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.82108 ms
+BRISK descriptor extraction in 13.6685 ms
+Shi-Tomasi detection with n=1828 keypoints in 8.13514 ms
+BRISK descriptor extraction in 13.8102 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.42134 ms
+BRISK descriptor extraction in 12.9754 ms
+Shi-Tomasi detection with n=1877 keypoints in 7.66262 ms
+BRISK descriptor extraction in 13.9018 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.23857 ms
+BRISK descriptor extraction in 14.1079 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.63106 ms
+BRISK descriptor extraction in 14.1226 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.65126 ms
+BRISK descriptor extraction in 14.0388 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.78155 ms
+BRISK descriptor extraction in 14.2211 ms
+Shi-Tomasi detection with n=1912 keypoints in 8.60346 ms
+BRISK descriptor extraction in 14.211 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.97269 ms
+BRISK descriptor extraction in 14.2988 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.38704 ms
+BRISK descriptor extraction in 13.6415 ms
+Shi-Tomasi detection with n=1886 keypoints in 9.48494 ms
+BRISK descriptor extraction in 13.8932 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.52316 ms
+BRISK descriptor extraction in 14.6662 ms
+Shi-Tomasi detection with n=1888 keypoints in 8.35518 ms
+BRISK descriptor extraction in 13.891 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.54471 ms
+BRISK descriptor extraction in 14.4147 ms
+Shi-Tomasi detection with n=2057 keypoints in 8.69233 ms
+BRISK descriptor extraction in 15.0989 ms
+Shi-Tomasi detection with n=1723 keypoints in 10.3426 ms
+BRISK descriptor extraction in 13.3725 ms
+Shi-Tomasi detection with n=1759 keypoints in 8.26944 ms
+BRISK descriptor extraction in 13.3939 ms
+Shi-Tomasi detection with n=1820 keypoints in 8.32248 ms
+BRISK descriptor extraction in 13.6998 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.61613 ms
+BRISK descriptor extraction in 13.7196 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.68452 ms
+BRISK descriptor extraction in 13.6753 ms
+Shi-Tomasi detection with n=1806 keypoints in 8.06668 ms
+BRISK descriptor extraction in 13.2133 ms
+Shi-Tomasi detection with n=1877 keypoints in 9.93135 ms
+BRISK descriptor extraction in 13.5854 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.10034 ms
+BRISK descriptor extraction in 13.6962 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.52102 ms
+BRISK descriptor extraction in 15.3281 ms
+Shi-Tomasi detection with n=1917 keypoints in 8.28017 ms
+BRISK descriptor extraction in 13.8967 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.03467 ms
+BRISK descriptor extraction in 13.616 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.99138 ms
+BRISK descriptor extraction in 13.9281 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.59243 ms
+BRISK descriptor extraction in 13.9698 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.2004 ms
+BRISK descriptor extraction in 13.8459 ms
+Shi-Tomasi detection with n=1886 keypoints in 8.41768 ms
+BRISK descriptor extraction in 14.1375 ms
+Shi-Tomasi detection with n=1957 keypoints in 8.90877 ms
+BRISK descriptor extraction in 14.4017 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.63991 ms
+BRISK descriptor extraction in 13.8012 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.90551 ms
+BRISK descriptor extraction in 14.3158 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.67297 ms
+BRISK descriptor extraction in 15.0235 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.62286 ms
+BRISK descriptor extraction in 13.4003 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.79098 ms
+BRISK descriptor extraction in 13.2567 ms
+Shi-Tomasi detection with n=1820 keypoints in 8.06934 ms
+BRISK descriptor extraction in 13.5732 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.99634 ms
+BRISK descriptor extraction in 13.4193 ms
+Shi-Tomasi detection with n=1828 keypoints in 8.53076 ms
+BRISK descriptor extraction in 13.7233 ms
+Shi-Tomasi detection with n=1806 keypoints in 8.3785 ms
+BRISK descriptor extraction in 13.4513 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.43945 ms
+BRISK descriptor extraction in 13.65 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.15734 ms
+BRISK descriptor extraction in 13.9065 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.99192 ms
+BRISK descriptor extraction in 13.7945 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.82647 ms
+BRISK descriptor extraction in 13.8882 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.98246 ms
+BRISK descriptor extraction in 13.6825 ms
+Shi-Tomasi detection with n=1912 keypoints in 8.52544 ms
+BRISK descriptor extraction in 13.9119 ms
+Shi-Tomasi detection with n=1930 keypoints in 8.36133 ms
+BRISK descriptor extraction in 14.2003 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.99614 ms
+BRISK descriptor extraction in 13.857 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.80256 ms
+BRISK descriptor extraction in 13.8785 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.55171 ms
+BRISK descriptor extraction in 14.4316 ms
+Shi-Tomasi detection with n=1888 keypoints in 8.06687 ms
+BRISK descriptor extraction in 13.8132 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.92109 ms
+BRISK descriptor extraction in 14.1748 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.77553 ms
+BRISK descriptor extraction in 15.1571 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.64745 ms
+BRISK descriptor extraction in 13.3796 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.18398 ms
+BRISK descriptor extraction in 13.1637 ms
+Shi-Tomasi detection with n=1820 keypoints in 8.04804 ms
+BRISK descriptor extraction in 13.5694 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.93738 ms
+BRISK descriptor extraction in 13.5731 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.96082 ms
+BRISK descriptor extraction in 13.6693 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.90858 ms
+BRISK descriptor extraction in 13.375 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.44555 ms
+BRISK descriptor extraction in 13.5706 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.07316 ms
+BRISK descriptor extraction in 13.448 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.69297 ms
+BRISK descriptor extraction in 13.6723 ms
+Shi-Tomasi detection with n=1917 keypoints in 8.67075 ms
+BRISK descriptor extraction in 13.9699 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.44292 ms
+BRISK descriptor extraction in 13.7741 ms
+Shi-Tomasi detection with n=1912 keypoints in 8.53449 ms
+BRISK descriptor extraction in 13.9048 ms
+Shi-Tomasi detection with n=1930 keypoints in 8.69602 ms
+BRISK descriptor extraction in 13.9898 ms
+Shi-Tomasi detection with n=1881 keypoints in 8.47267 ms
+BRISK descriptor extraction in 13.8678 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.39754 ms
+BRISK descriptor extraction in 13.804 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.9625 ms
+BRISK descriptor extraction in 14.4105 ms
+Shi-Tomasi detection with n=1888 keypoints in 8.34443 ms
+BRISK descriptor extraction in 13.8155 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.93628 ms
+BRISK descriptor extraction in 14.0901 ms
+Shi-Tomasi detection with n=2057 keypoints in 8.38335 ms
+BRISK descriptor extraction in 14.8889 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.92302 ms
+BRISK descriptor extraction in 13.0613 ms
+Shi-Tomasi detection with n=1759 keypoints in 11.5098 ms
+BRISK descriptor extraction in 13.1322 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.84204 ms
+BRISK descriptor extraction in 13.5766 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.50579 ms
+BRISK descriptor extraction in 13.6418 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.93256 ms
+BRISK descriptor extraction in 13.6917 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.99447 ms
+BRISK descriptor extraction in 13.3962 ms
+Shi-Tomasi detection with n=1877 keypoints in 7.59982 ms
+BRISK descriptor extraction in 13.5349 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.08471 ms
+BRISK descriptor extraction in 13.7212 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.38129 ms
+BRISK descriptor extraction in 13.6692 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.36524 ms
+BRISK descriptor extraction in 13.8563 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.73191 ms
+BRISK descriptor extraction in 13.6077 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.5145 ms
+BRISK descriptor extraction in 13.9204 ms
+Shi-Tomasi detection with n=1930 keypoints in 10.6984 ms
+BRISK descriptor extraction in 13.8108 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.61691 ms
+BRISK descriptor extraction in 13.6544 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.89952 ms
+BRISK descriptor extraction in 13.8417 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.7423 ms
+BRISK descriptor extraction in 14.3617 ms
+Shi-Tomasi detection with n=1888 keypoints in 9.70709 ms
+BRISK descriptor extraction in 14.0544 ms
+Shi-Tomasi detection with n=1919 keypoints in 9.44162 ms
+BRISK descriptor extraction in 14.0832 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.94912 ms
+BRISK descriptor extraction in 15.0071 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.96843 ms
+BRISK descriptor extraction in 13.3111 ms
+Shi-Tomasi detection with n=1759 keypoints in 9.53698 ms
+BRISK descriptor extraction in 13.2459 ms
+Shi-Tomasi detection with n=1820 keypoints in 9.93 ms
+BRISK descriptor extraction in 13.6104 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.59349 ms
+BRISK descriptor extraction in 13.6604 ms
+Shi-Tomasi detection with n=1828 keypoints in 8.5053 ms
+BRISK descriptor extraction in 13.6191 ms
+Shi-Tomasi detection with n=1806 keypoints in 9.04969 ms
+BRISK descriptor extraction in 13.1576 ms
+Shi-Tomasi detection with n=1877 keypoints in 10.1286 ms
+BRISK descriptor extraction in 13.8048 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.66824 ms
+BRISK descriptor extraction in 13.9331 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.54751 ms
+BRISK descriptor extraction in 13.8467 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.51471 ms
+BRISK descriptor extraction in 13.8391 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.49137 ms
+BRISK descriptor extraction in 13.5755 ms
+Shi-Tomasi detection with n=1912 keypoints in 8.07383 ms
+BRISK descriptor extraction in 13.9026 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.45094 ms
+BRISK descriptor extraction in 15.9863 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.70178 ms
+BRISK descriptor extraction in 13.7205 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.65817 ms
+BRISK descriptor extraction in 13.8492 ms
+Shi-Tomasi detection with n=1957 keypoints in 8.20708 ms
+BRISK descriptor extraction in 14.4046 ms
+Shi-Tomasi detection with n=1888 keypoints in 8.11717 ms
+BRISK descriptor extraction in 14.0811 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.48935 ms
+BRISK descriptor extraction in 14.3337 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.55514 ms
+BRISK descriptor extraction in 15.0288 ms
+Shi-Tomasi detection with n=1723 keypoints in 13.7852 ms
+BRISK descriptor extraction in 13.0611 ms
+Shi-Tomasi detection with n=1759 keypoints in 15.3348 ms
+BRISK descriptor extraction in 22.2917 ms
+Shi-Tomasi detection with n=1820 keypoints in 16.5255 ms
+BRISK descriptor extraction in 13.5877 ms
+Shi-Tomasi detection with n=1850 keypoints in 18.0281 ms
+BRISK descriptor extraction in 14.0696 ms
+Shi-Tomasi detection with n=1828 keypoints in 14.6382 ms
+BRISK descriptor extraction in 13.6822 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.03059 ms
+BRISK descriptor extraction in 13.0941 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.58699 ms
+BRISK descriptor extraction in 13.2155 ms
+Shi-Tomasi detection with n=1820 keypoints in 10.8079 ms
+BRISK descriptor extraction in 13.3627 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.18365 ms
+BRISK descriptor extraction in 13.3134 ms
+Shi-Tomasi detection with n=1759 keypoints in 9.30804 ms
+BRISK descriptor extraction in 13.1777 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.50531 ms
+BRISK descriptor extraction in 13.4035 ms
+Shi-Tomasi detection with n=1850 keypoints in 8.15404 ms
+BRISK descriptor extraction in 13.7238 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.28802 ms
+BRISK descriptor extraction in 13.6528 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.87721 ms
+BRISK descriptor extraction in 13.2242 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.15939 ms
+BRISK descriptor extraction in 13.7641 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.65332 ms
+BRISK descriptor extraction in 14.0083 ms
+Shi-Tomasi detection with n=1889 keypoints in 8.35035 ms
+BRISK descriptor extraction in 13.7342 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.92577 ms
+BRISK descriptor extraction in 13.8787 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.74284 ms
+BRISK descriptor extraction in 13.5268 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.55638 ms
+BRISK descriptor extraction in 13.902 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.86132 ms
+BRISK descriptor extraction in 14.0266 ms
+Shi-Tomasi detection with n=1881 keypoints in 9.71406 ms
+BRISK descriptor extraction in 13.8241 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.40036 ms
+BRISK descriptor extraction in 13.908 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.94496 ms
+BRISK descriptor extraction in 14.3922 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.63987 ms
+BRISK descriptor extraction in 14.0682 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.78555 ms
+BRISK descriptor extraction in 14.2883 ms
+Shi-Tomasi detection with n=2057 keypoints in 9.71705 ms
+BRISK descriptor extraction in 15.0489 ms
+Shi-Tomasi detection with n=1723 keypoints in 15.2544 ms
+BRISK descriptor extraction in 13.0813 ms
+Shi-Tomasi detection with n=1759 keypoints in 34.8355 ms
+BRISK descriptor extraction in 13.5127 ms
+Shi-Tomasi detection with n=1820 keypoints in 16.3244 ms
+BRISK descriptor extraction in 18.2347 ms
+Shi-Tomasi detection with n=1850 keypoints in 16.231 ms
+BRISK descriptor extraction in 18.6261 ms
+Shi-Tomasi detection with n=1828 keypoints in 9.97585 ms
+BRISK descriptor extraction in 14.2852 ms
+Shi-Tomasi detection with n=1806 keypoints in 14.7115 ms
+BRISK descriptor extraction in 17.6134 ms
+Shi-Tomasi detection with n=1877 keypoints in 13.6839 ms
+BRISK descriptor extraction in 19.8681 ms
+Shi-Tomasi detection with n=1894 keypoints in 12.981 ms
+BRISK descriptor extraction in 13.7426 ms
+Shi-Tomasi detection with n=1889 keypoints in 15.309 ms
+BRISK descriptor extraction in 19.7462 ms
+Shi-Tomasi detection with n=1917 keypoints in 11.9118 ms
+BRISK descriptor extraction in 14.496 ms
+Shi-Tomasi detection with n=1874 keypoints in 16.5321 ms
+BRISK descriptor extraction in 17.9656 ms
+Shi-Tomasi detection with n=1912 keypoints in 12.5831 ms
+BRISK descriptor extraction in 18.5963 ms
+Shi-Tomasi detection with n=1930 keypoints in 15.415 ms
+BRISK descriptor extraction in 20.6878 ms
+Shi-Tomasi detection with n=1881 keypoints in 15.7942 ms
+BRISK descriptor extraction in 18.6839 ms
+Shi-Tomasi detection with n=1886 keypoints in 10.7503 ms
+BRISK descriptor extraction in 14.318 ms
+Shi-Tomasi detection with n=1723 keypoints in 11.4245 ms
+BRISK descriptor extraction in 12.977 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.83033 ms
+BRISK descriptor extraction in 13.0647 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.43076 ms
+BRISK descriptor extraction in 13.394 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.62238 ms
+BRISK descriptor extraction in 14.8014 ms
+Shi-Tomasi detection with n=1828 keypoints in 8.22374 ms
+BRISK descriptor extraction in 13.5306 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.63747 ms
+BRISK descriptor extraction in 13.2097 ms
+Shi-Tomasi detection with n=1877 keypoints in 7.74022 ms
+BRISK descriptor extraction in 13.5602 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.7557 ms
+BRISK descriptor extraction in 13.6412 ms
+Shi-Tomasi detection with n=1889 keypoints in 8.01599 ms
+BRISK descriptor extraction in 13.4626 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.55483 ms
+BRISK descriptor extraction in 13.8941 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.74256 ms
+BRISK descriptor extraction in 13.806 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.33054 ms
+BRISK descriptor extraction in 14.184 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.46086 ms
+BRISK descriptor extraction in 14.2287 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.70524 ms
+BRISK descriptor extraction in 13.9826 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.62886 ms
+BRISK descriptor extraction in 13.848 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.91475 ms
+BRISK descriptor extraction in 14.4014 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.82474 ms
+BRISK descriptor extraction in 13.8566 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.83617 ms
+BRISK descriptor extraction in 14.1453 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.71159 ms
+BRISK descriptor extraction in 15.0506 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.37889 ms
+BRISK descriptor extraction in 17.8897 ms
+Shi-Tomasi detection with n=1759 keypoints in 9.57626 ms
+BRISK descriptor extraction in 13.1984 ms
+Shi-Tomasi detection with n=1820 keypoints in 8.12873 ms
+BRISK descriptor extraction in 13.375 ms
+Shi-Tomasi detection with n=1850 keypoints in 12.989 ms
+BRISK descriptor extraction in 13.785 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.75786 ms
+BRISK descriptor extraction in 13.0305 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.77196 ms
+BRISK descriptor extraction in 13.2289 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.36196 ms
+BRISK descriptor extraction in 13.3832 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.75438 ms
+BRISK descriptor extraction in 13.8636 ms
+Shi-Tomasi detection with n=1828 keypoints in 9.36119 ms
+BRISK descriptor extraction in 13.7221 ms
+Shi-Tomasi detection with n=1806 keypoints in 9.36472 ms
+BRISK descriptor extraction in 13.4502 ms
+Shi-Tomasi detection with n=1877 keypoints in 11.0178 ms
+BRISK descriptor extraction in 13.5968 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.64818 ms
+BRISK descriptor extraction in 14.0003 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.58881 ms
+BRISK descriptor extraction in 13.5644 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.58062 ms
+BRISK descriptor extraction in 13.8594 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.46258 ms
+BRISK descriptor extraction in 13.6372 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.9361 ms
+BRISK descriptor extraction in 13.9746 ms
+Shi-Tomasi detection with n=1930 keypoints in 8.50318 ms
+BRISK descriptor extraction in 14.0014 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.39937 ms
+BRISK descriptor extraction in 13.8144 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.79079 ms
+BRISK descriptor extraction in 13.8221 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.71177 ms
+BRISK descriptor extraction in 14.4084 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.74261 ms
+BRISK descriptor extraction in 14.0728 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.77829 ms
+BRISK descriptor extraction in 14.1776 ms
+Shi-Tomasi detection with n=2057 keypoints in 8.69882 ms
+BRISK descriptor extraction in 15.0478 ms
+Shi-Tomasi detection with n=1723 keypoints in 13.5463 ms
+BRISK descriptor extraction in 13.5225 ms
+Shi-Tomasi detection with n=1759 keypoints in 16.1289 ms
+BRISK descriptor extraction in 13.1594 ms
+Shi-Tomasi detection with n=1820 keypoints in 14.9034 ms
+BRISK descriptor extraction in 13.664 ms
+Shi-Tomasi detection with n=1850 keypoints in 13.8643 ms
+BRISK descriptor extraction in 19.2438 ms
+Shi-Tomasi detection with n=1828 keypoints in 10.325 ms
+BRISK descriptor extraction in 13.9936 ms
+Shi-Tomasi detection with n=1806 keypoints in 9.2798 ms
+BRISK descriptor extraction in 13.2695 ms
+Shi-Tomasi detection with n=1877 keypoints in 12.0631 ms
+BRISK descriptor extraction in 13.7346 ms
+Shi-Tomasi detection with n=1894 keypoints in 10.7893 ms
+BRISK descriptor extraction in 13.8407 ms
+Shi-Tomasi detection with n=1889 keypoints in 13.3175 ms
+Shi-Tomasi detection with n=1723 keypoints in 10.8788 ms
+BRISK descriptor extraction in 13.2627 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.90815 ms
+BRISK descriptor extraction in 13.1925 ms
+Shi-Tomasi detection with n=1820 keypoints in 9.07509 ms
+BRISK descriptor extraction in 13.454 ms
+Shi-Tomasi detection with n=1850 keypoints in 8.72803 ms
+BRISK descriptor extraction in 14.0802 ms
+Shi-Tomasi detection with n=1828 keypoints in 8.30047 ms
+BRISK descriptor extraction in 14.2971 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.7871 ms
+BRISK descriptor extraction in 13.5375 ms
+Shi-Tomasi detection with n=1877 keypoints in 7.61174 ms
+BRISK descriptor extraction in 13.8252 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.07983 ms
+BRISK descriptor extraction in 13.9639 ms
+Shi-Tomasi detection with n=1889 keypoints in 8.16251 ms
+BRISK descriptor extraction in 13.9591 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.6285 ms
+BRISK descriptor extraction in 14.1093 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.36318 ms
+BRISK descriptor extraction in 13.8633 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.80353 ms
+BRISK descriptor extraction in 14.2512 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.49133 ms
+BRISK descriptor extraction in 14.284 ms
+Shi-Tomasi detection with n=1881 keypoints in 9.22129 ms
+BRISK descriptor extraction in 14.0483 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.49485 ms
+BRISK descriptor extraction in 14.0933 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.89116 ms
+BRISK descriptor extraction in 14.6574 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.89208 ms
+BRISK descriptor extraction in 14.1418 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.97068 ms
+BRISK descriptor extraction in 14.2115 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.80317 ms
+BRISK descriptor extraction in 15.2457 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.83515 ms
+BRISK descriptor extraction in 13.3595 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.60334 ms
+BRISK descriptor extraction in 13.169 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.41523 ms
+BRISK descriptor extraction in 13.6899 ms
+Shi-Tomasi detection with n=1850 keypoints in 8.1651 ms
+BRISK descriptor extraction in 13.9198 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.60373 ms
+BRISK descriptor extraction in 13.76 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.5179 ms
+BRISK descriptor extraction in 13.4987 ms
+Shi-Tomasi detection with n=1877 keypoints in 9.29182 ms
+BRISK descriptor extraction in 13.848 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.93735 ms
+BRISK descriptor extraction in 13.9763 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.63451 ms
+BRISK descriptor extraction in 13.6874 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.85487 ms
+BRISK descriptor extraction in 14.3239 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.3831 ms
+BRISK descriptor extraction in 13.8636 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.49961 ms
+BRISK descriptor extraction in 14.2225 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.38957 ms
+BRISK descriptor extraction in 14.0564 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.89231 ms
+BRISK descriptor extraction in 13.5738 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.56955 ms
+BRISK descriptor extraction in 14.0827 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.6523 ms
+BRISK descriptor extraction in 14.4276 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.84032 ms
+BRISK descriptor extraction in 13.8802 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.52661 ms
+BRISK descriptor extraction in 14.0153 ms
+Shi-Tomasi detection with n=2057 keypoints in 8.25634 ms
+BRISK descriptor extraction in 14.7593 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.27869 ms
+BRISK descriptor extraction in 13.3732 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.95227 ms
+BRISK descriptor extraction in 13.0884 ms
+Shi-Tomasi detection with n=1820 keypoints in 8.71862 ms
+BRISK descriptor extraction in 13.7193 ms
+Shi-Tomasi detection with n=1850 keypoints in 8.02719 ms
+BRISK descriptor extraction in 13.9374 ms
+Shi-Tomasi detection with n=1828 keypoints in 9.71608 ms
+BRISK descriptor extraction in 13.7404 ms
+Shi-Tomasi detection with n=1806 keypoints in 8.39671 ms
+BRISK descriptor extraction in 13.4655 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.05784 ms
+BRISK descriptor extraction in 13.7921 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.22755 ms
+BRISK descriptor extraction in 13.9302 ms
+Shi-Tomasi detection with n=1889 keypoints in 9.98473 ms
+BRISK descriptor extraction in 13.9874 ms
+Shi-Tomasi detection with n=1917 keypoints in 8.00035 ms
+BRISK descriptor extraction in 13.8623 ms
+Shi-Tomasi detection with n=1874 keypoints in 7.46042 ms
+BRISK descriptor extraction in 13.9035 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.7872 ms
+BRISK descriptor extraction in 14.1985 ms
+Shi-Tomasi detection with n=1930 keypoints in 8.52226 ms
+BRISK descriptor extraction in 14.2647 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.50268 ms
+BRISK descriptor extraction in 14.0743 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.52738 ms
+BRISK descriptor extraction in 14.1926 ms
+Shi-Tomasi detection with n=1957 keypoints in 9.49447 ms
+BRISK descriptor extraction in 14.6538 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.6209 ms
+BRISK descriptor extraction in 14.1306 ms
+Shi-Tomasi detection with n=1919 keypoints in 8.16632 ms
+BRISK descriptor extraction in 14.4518 ms
+Shi-Tomasi detection with n=2057 keypoints in 8.83774 ms
+BRISK descriptor extraction in 15.2506 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.70765 ms
+BRISK descriptor extraction in 13.1044 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.7903 ms
+BRISK descriptor extraction in 13.1791 ms
+Shi-Tomasi detection with n=1820 keypoints in 9.13153 ms
+BRISK descriptor extraction in 13.5682 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.80089 ms
+BRISK descriptor extraction in 17.0112 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.89083 ms
+BRISK descriptor extraction in 13.6888 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.33586 ms
+BRISK descriptor extraction in 13.3952 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.8317 ms
+BRISK descriptor extraction in 13.2347 ms
+Shi-Tomasi detection with n=1820 keypoints in 8.36268 ms
+BRISK descriptor extraction in 13.41 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.7294 ms
+BRISK descriptor extraction in 13.954 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.92185 ms
+BRISK descriptor extraction in 13.576 ms
+Shi-Tomasi detection with n=1806 keypoints in 11.2878 ms
+BRISK descriptor extraction in 13.4554 ms
+Shi-Tomasi detection with n=1877 keypoints in 7.61377 ms
+BRISK descriptor extraction in 13.5921 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.87284 ms
+BRISK descriptor extraction in 13.594 ms
+Shi-Tomasi detection with n=1889 keypoints in 10.4527 ms
+BRISK descriptor extraction in 13.6483 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.69755 ms
+BRISK descriptor extraction in 14.3539 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.47334 ms
+BRISK descriptor extraction in 13.7531 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.55753 ms
+BRISK descriptor extraction in 13.8928 ms
+Shi-Tomasi detection with n=1930 keypoints in 8.334 ms
+BRISK descriptor extraction in 14.2004 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.46435 ms
+BRISK descriptor extraction in 13.9869 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.42074 ms
+BRISK descriptor extraction in 14.0307 ms
+Shi-Tomasi detection with n=1957 keypoints in 8.56409 ms
+BRISK descriptor extraction in 14.5284 ms
+Shi-Tomasi detection with n=1888 keypoints in 8.17372 ms
+BRISK descriptor extraction in 13.9814 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.70763 ms
+BRISK descriptor extraction in 14.0654 ms
+Shi-Tomasi detection with n=2057 keypoints in 9.59198 ms
+BRISK descriptor extraction in 15.2369 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.31068 ms
+BRISK descriptor extraction in 13.4501 ms
+Shi-Tomasi detection with n=1759 keypoints in 9.20943 ms
+BRISK descriptor extraction in 13.2286 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.51891 ms
+BRISK descriptor extraction in 13.4209 ms
+Shi-Tomasi detection with n=1850 keypoints in 8.08305 ms
+BRISK descriptor extraction in 13.7967 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.87328 ms
+BRISK descriptor extraction in 13.4239 ms
+Shi-Tomasi detection with n=1806 keypoints in 8.07946 ms
+BRISK descriptor extraction in 13.2055 ms
+Shi-Tomasi detection with n=1877 keypoints in 7.96835 ms
+BRISK descriptor extraction in 13.7177 ms
+Shi-Tomasi detection with n=1894 keypoints in 8.18646 ms
+BRISK descriptor extraction in 13.7257 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.48859 ms
+BRISK descriptor extraction in 13.6801 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.7345 ms
+BRISK descriptor extraction in 13.877 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.1899 ms
+BRISK descriptor extraction in 13.5928 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.93227 ms
+BRISK descriptor extraction in 13.9307 ms
+Shi-Tomasi detection with n=1930 keypoints in 8.00903 ms
+BRISK descriptor extraction in 14.0071 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.97336 ms
+BRISK descriptor extraction in 13.7424 ms
+Shi-Tomasi detection with n=1886 keypoints in 9.38764 ms
+BRISK descriptor extraction in 13.8365 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.84739 ms
+BRISK descriptor extraction in 14.3265 ms
+Shi-Tomasi detection with n=1888 keypoints in 8.60865 ms
+BRISK descriptor extraction in 13.8185 ms
+Shi-Tomasi detection with n=1919 keypoints in 9.432 ms
+BRISK descriptor extraction in 14.0849 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.57269 ms
+BRISK descriptor extraction in 15.0249 ms
+Shi-Tomasi detection with n=1723 keypoints in 10.3831 ms
+BRISK descriptor extraction in 13.3191 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.76763 ms
+BRISK descriptor extraction in 13.1321 ms
+Shi-Tomasi detection with n=1820 keypoints in 8.10295 ms
+BRISK descriptor extraction in 13.6586 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.89883 ms
+BRISK descriptor extraction in 13.8591 ms
+Shi-Tomasi detection with n=1828 keypoints in 9.48107 ms
+BRISK descriptor extraction in 13.6449 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.54497 ms
+BRISK descriptor extraction in 13.7422 ms
+Shi-Tomasi detection with n=1877 keypoints in 7.38108 ms
+BRISK descriptor extraction in 13.95 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.87819 ms
+BRISK descriptor extraction in 13.7645 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.91113 ms
+BRISK descriptor extraction in 14.0113 ms
+Shi-Tomasi detection with n=1917 keypoints in 9.7119 ms
+BRISK descriptor extraction in 13.8814 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.05956 ms
+BRISK descriptor extraction in 13.4896 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.79483 ms
+BRISK descriptor extraction in 13.7677 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.66657 ms
+BRISK descriptor extraction in 14.0568 ms
+Shi-Tomasi detection with n=1881 keypoints in 8.22309 ms
+BRISK descriptor extraction in 13.5486 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.8265 ms
+BRISK descriptor extraction in 13.8317 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.77178 ms
+BRISK descriptor extraction in 14.3933 ms
+Shi-Tomasi detection with n=1888 keypoints in 8.04266 ms
+BRISK descriptor extraction in 14.0795 ms
+Shi-Tomasi detection with n=1919 keypoints in 7.59076 ms
+BRISK descriptor extraction in 14.1732 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.88659 ms
+BRISK descriptor extraction in 15.6343 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.82931 ms
+BRISK descriptor extraction in 13.343 ms
+Shi-Tomasi detection with n=1759 keypoints in 8.03001 ms
+BRISK descriptor extraction in 13.1368 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.8128 ms
+BRISK descriptor extraction in 13.7032 ms
+Shi-Tomasi detection with n=1850 keypoints in 9.70189 ms
+BRISK descriptor extraction in 13.7012 ms
+Shi-Tomasi detection with n=1828 keypoints in 9.2624 ms
+BRISK descriptor extraction in 13.721 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.78807 ms
+BRISK descriptor extraction in 13.4161 ms
+Shi-Tomasi detection with n=1877 keypoints in 8.17839 ms
+BRISK descriptor extraction in 13.9051 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.68597 ms
+BRISK descriptor extraction in 13.9055 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.30505 ms
+BRISK descriptor extraction in 13.0984 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.98982 ms
+BRISK descriptor extraction in 13.263 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.15888 ms
+BRISK descriptor extraction in 13.3423 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.76703 ms
+BRISK descriptor extraction in 13.1894 ms
+Shi-Tomasi detection with n=1723 keypoints in 10.2636 ms
+BRISK descriptor extraction in 13.1202 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.6205 ms
+BRISK descriptor extraction in 13.195 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.36076 ms
+BRISK descriptor extraction in 13.5401 ms
+Shi-Tomasi detection with n=1759 keypoints in 8.30066 ms
+BRISK descriptor extraction in 13.1365 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.3613 ms
+BRISK descriptor extraction in 13.1494 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.6838 ms
+BRISK descriptor extraction in 13.117 ms
+Shi-Tomasi detection with n=1723 keypoints in 8.9896 ms
+BRISK descriptor extraction in 13.0961 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.85363 ms
+BRISK descriptor extraction in 13.062 ms
+Shi-Tomasi detection with n=1723 keypoints in 10.1041 ms
+BRISK descriptor extraction in 13.1065 ms
+Shi-Tomasi detection with n=1759 keypoints in 9.04549 ms
+BRISK descriptor extraction in 13.1314 ms
+Shi-Tomasi detection with n=1820 keypoints in 9.73658 ms
+BRISK descriptor extraction in 13.7025 ms
+Shi-Tomasi detection with n=1850 keypoints in 7.51521 ms
+BRISK descriptor extraction in 13.9133 ms
+Shi-Tomasi detection with n=1828 keypoints in 7.3814 ms
+BRISK descriptor extraction in 13.7649 ms
+Shi-Tomasi detection with n=1806 keypoints in 8.27646 ms
+BRISK descriptor extraction in 13.2939 ms
+Shi-Tomasi detection with n=1877 keypoints in 7.47489 ms
+BRISK descriptor extraction in 13.8564 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.81006 ms
+BRISK descriptor extraction in 14.1107 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.84577 ms
+BRISK descriptor extraction in 13.9532 ms
+Shi-Tomasi detection with n=1917 keypoints in 7.46701 ms
+BRISK descriptor extraction in 14.0858 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.19265 ms
+BRISK descriptor extraction in 13.8047 ms
+Shi-Tomasi detection with n=1912 keypoints in 10.6501 ms
+BRISK descriptor extraction in 14.145 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.95915 ms
+BRISK descriptor extraction in 14.23 ms
+Shi-Tomasi detection with n=1881 keypoints in 8.22484 ms
+BRISK descriptor extraction in 13.8808 ms
+Shi-Tomasi detection with n=1886 keypoints in 7.86066 ms
+BRISK descriptor extraction in 14.0648 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.60057 ms
+BRISK descriptor extraction in 14.6427 ms
+Shi-Tomasi detection with n=1888 keypoints in 8.15049 ms
+BRISK descriptor extraction in 13.8308 ms
+Shi-Tomasi detection with n=1919 keypoints in 9.95645 ms
+BRISK descriptor extraction in 14.3844 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.71644 ms
+BRISK descriptor extraction in 15.2651 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.3512 ms
+BRISK descriptor extraction in 13.2352 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.76201 ms
+BRISK descriptor extraction in 13.2687 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.2699 ms
+BRISK descriptor extraction in 13.3033 ms
+Shi-Tomasi detection with n=1759 keypoints in 11.1915 ms
+BRISK descriptor extraction in 13.1084 ms
+Shi-Tomasi detection with n=1723 keypoints in 9.26045 ms
+BRISK descriptor extraction in 13.3652 ms
+Shi-Tomasi detection with n=1759 keypoints in 7.98564 ms
+BRISK descriptor extraction in 13.1521 ms
+Shi-Tomasi detection with n=1820 keypoints in 7.78509 ms
+BRISK descriptor extraction in 13.3086 ms
+Shi-Tomasi detection with n=1850 keypoints in 9.37442 ms
+BRISK descriptor extraction in 13.6496 ms
+Shi-Tomasi detection with n=1828 keypoints in 8.14381 ms
+BRISK descriptor extraction in 13.4319 ms
+Shi-Tomasi detection with n=1806 keypoints in 7.76629 ms
+BRISK descriptor extraction in 13.3749 ms
+Shi-Tomasi detection with n=1877 keypoints in 7.79658 ms
+BRISK descriptor extraction in 13.7872 ms
+Shi-Tomasi detection with n=1894 keypoints in 7.89347 ms
+BRISK descriptor extraction in 13.7038 ms
+Shi-Tomasi detection with n=1889 keypoints in 7.63429 ms
+BRISK descriptor extraction in 13.6583 ms
+Shi-Tomasi detection with n=1917 keypoints in 8.43975 ms
+BRISK descriptor extraction in 13.8508 ms
+Shi-Tomasi detection with n=1874 keypoints in 8.34727 ms
+BRISK descriptor extraction in 13.5547 ms
+Shi-Tomasi detection with n=1912 keypoints in 7.33521 ms
+BRISK descriptor extraction in 14.1288 ms
+Shi-Tomasi detection with n=1930 keypoints in 7.3998 ms
+BRISK descriptor extraction in 14.2172 ms
+Shi-Tomasi detection with n=1881 keypoints in 7.45696 ms
+BRISK descriptor extraction in 13.7785 ms
+Shi-Tomasi detection with n=1886 keypoints in 8.20063 ms
+BRISK descriptor extraction in 13.8137 ms
+Shi-Tomasi detection with n=1957 keypoints in 7.81548 ms
+BRISK descriptor extraction in 14.6163 ms
+Shi-Tomasi detection with n=1888 keypoints in 7.51631 ms
+BRISK descriptor extraction in 13.8175 ms
+Shi-Tomasi detection with n=1919 keypoints in 8.29472 ms
+BRISK descriptor extraction in 13.866 ms
+Shi-Tomasi detection with n=2057 keypoints in 7.84204 ms
+BRISK descriptor extraction in 14.9763 ms
+FAST detector has found 1021 keypoints in 0.686711 ms
+BRIEF descriptor extraction in 2.84641 ms
+FAST detector has found 1022 keypoints in 0.559386 ms
+BRIEF descriptor extraction in 2.47252 ms
+FAST detector has found 1019 keypoints in 0.533445 ms
+BRIEF descriptor extraction in 2.34575 ms
+FAST detector has found 983 keypoints in 0.607063 ms
+BRIEF descriptor extraction in 2.35872 ms
+FAST detector has found 1004 keypoints in 0.693854 ms
+BRIEF descriptor extraction in 2.76555 ms
+FAST detector has found 972 keypoints in 0.706087 ms
+BRIEF descriptor extraction in 2.98773 ms
+FAST detector has found 972 keypoints in 0.558614 ms
+BRIEF descriptor extraction in 2.41919 ms
+FAST detector has found 977 keypoints in 0.533585 ms
+BRIEF descriptor extraction in 2.37496 ms
+FAST detector has found 977 keypoints in 0.49883 ms
+BRIEF descriptor extraction in 2.27077 ms
+FAST detector has found 954 keypoints in 0.592163 ms
+BRIEF descriptor extraction in 2.37857 ms
+FAST detector has found 982 keypoints in 0.614558 ms
+BRIEF descriptor extraction in 2.61595 ms
+FAST detector has found 955 keypoints in 0.757591 ms
+BRIEF descriptor extraction in 3.23774 ms
+FAST detector has found 979 keypoints in 0.528894 ms
+BRIEF descriptor extraction in 2.26334 ms
+FAST detector has found 1010 keypoints in 0.656138 ms
+BRIEF descriptor extraction in 2.80359 ms
+FAST detector has found 972 keypoints in 0.530202 ms
+BRIEF descriptor extraction in 2.20905 ms
+FAST detector has found 971 keypoints in 0.673875 ms
+BRIEF descriptor extraction in 3.50615 ms
+FAST detector has found 1035 keypoints in 0.742074 ms
+BRIEF descriptor extraction in 3.27192 ms
+FAST detector has found 1018 keypoints in 0.570825 ms
+BRIEF descriptor extraction in 2.27694 ms
+FAST detector has found 1012 keypoints in 0.506941 ms
+BRIEF descriptor extraction in 2.36009 ms
+FAST detector has found 1021 keypoints in 0.652907 ms
+BRIEF descriptor extraction in 2.92443 ms
+FAST detector has found 1022 keypoints in 0.529938 ms
+BRIEF descriptor extraction in 2.3729 ms
+FAST detector has found 1019 keypoints in 0.528703 ms
+BRIEF descriptor extraction in 2.4323 ms
+FAST detector has found 983 keypoints in 0.592879 ms
+BRIEF descriptor extraction in 2.501 ms
+FAST detector has found 1004 keypoints in 0.529873 ms
+BRIEF descriptor extraction in 2.30453 ms
+FAST detector has found 972 keypoints in 0.567503 ms
+BRIEF descriptor extraction in 2.39057 ms
+FAST detector has found 972 keypoints in 0.599832 ms
+BRIEF descriptor extraction in 2.58723 ms
+FAST detector has found 977 keypoints in 0.716111 ms
+BRIEF descriptor extraction in 2.71115 ms
+FAST detector has found 977 keypoints in 0.570448 ms
+BRIEF descriptor extraction in 2.4019 ms
+FAST detector has found 954 keypoints in 0.606384 ms
+BRIEF descriptor extraction in 3.28154 ms
+FAST detector has found 982 keypoints in 0.766965 ms
+BRIEF descriptor extraction in 3.10059 ms
+FAST detector has found 955 keypoints in 0.53919 ms
+BRIEF descriptor extraction in 2.38569 ms
+FAST detector has found 979 keypoints in 0.543829 ms
+BRIEF descriptor extraction in 2.30592 ms
+FAST detector has found 1010 keypoints in 0.640787 ms
+BRIEF descriptor extraction in 2.77168 ms
+FAST detector has found 972 keypoints in 0.506362 ms
+BRIEF descriptor extraction in 2.15017 ms
+FAST detector has found 971 keypoints in 0.551321 ms
+BRIEF descriptor extraction in 2.12691 ms
+FAST detector has found 1035 keypoints in 0.592046 ms
+BRIEF descriptor extraction in 2.3471 ms
+FAST detector has found 1018 keypoints in 0.547524 ms
+BRIEF descriptor extraction in 2.38966 ms
+FAST detector has found 1012 keypoints in 0.592387 ms
+BRIEF descriptor extraction in 2.40574 ms
+FAST detector has found 1021 keypoints in 0.658311 ms
+BRIEF descriptor extraction in 2.67874 ms
+FAST detector has found 1022 keypoints in 0.561901 ms
+BRIEF descriptor extraction in 2.46913 ms
+FAST detector has found 1019 keypoints in 0.547549 ms
+BRIEF descriptor extraction in 2.36175 ms
+FAST detector has found 983 keypoints in 0.67468 ms
+BRIEF descriptor extraction in 2.72294 ms
+FAST detector has found 1004 keypoints in 0.578943 ms
+BRIEF descriptor extraction in 2.44659 ms
+FAST detector has found 972 keypoints in 0.569644 ms
+BRIEF descriptor extraction in 2.37146 ms
+FAST detector has found 972 keypoints in 0.544103 ms
+BRIEF descriptor extraction in 2.36123 ms
+FAST detector has found 977 keypoints in 0.562463 ms
+BRIEF descriptor extraction in 2.41698 ms
+FAST detector has found 977 keypoints in 0.572006 ms
+BRIEF descriptor extraction in 2.46472 ms
+FAST detector has found 954 keypoints in 0.533855 ms
+BRIEF descriptor extraction in 2.26393 ms
+FAST detector has found 982 keypoints in 0.496814 ms
+BRIEF descriptor extraction in 2.40775 ms
+FAST detector has found 955 keypoints in 0.518492 ms
+BRIEF descriptor extraction in 2.20396 ms
+FAST detector has found 979 keypoints in 0.614114 ms
+BRIEF descriptor extraction in 2.53433 ms
+FAST detector has found 1010 keypoints in 0.563762 ms
+BRIEF descriptor extraction in 2.63358 ms
+FAST detector has found 972 keypoints in 0.537281 ms
+BRIEF descriptor extraction in 3.22957 ms
+FAST detector has found 971 keypoints in 0.527986 ms
+BRIEF descriptor extraction in 2.29402 ms
+FAST detector has found 1035 keypoints in 0.536343 ms
+BRIEF descriptor extraction in 2.31888 ms
+FAST detector has found 1018 keypoints in 0.536736 ms
+BRIEF descriptor extraction in 2.52462 ms
+FAST detector has found 1012 keypoints in 0.54913 ms
+BRIEF descriptor extraction in 2.00407 ms
+FAST detector has found 1021 keypoints in 0.704684 ms
+BRIEF descriptor extraction in 3.13607 ms
+FAST detector has found 1022 keypoints in 0.576092 ms
+BRIEF descriptor extraction in 2.73528 ms
+FAST detector has found 1019 keypoints in 0.614791 ms
+BRIEF descriptor extraction in 2.67883 ms
+FAST detector has found 983 keypoints in 0.615569 ms
+BRIEF descriptor extraction in 2.49505 ms
+FAST detector has found 1004 keypoints in 0.550159 ms
+BRIEF descriptor extraction in 2.14783 ms
+FAST detector has found 972 keypoints in 0.488957 ms
+BRIEF descriptor extraction in 2.61299 ms
+FAST detector has found 972 keypoints in 0.540496 ms
+BRIEF descriptor extraction in 2.26801 ms
+FAST detector has found 977 keypoints in 0.583556 ms
+BRIEF descriptor extraction in 7.82786 ms
+FAST detector has found 977 keypoints in 0.572009 ms
+BRIEF descriptor extraction in 2.30959 ms
+FAST detector has found 954 keypoints in 0.537237 ms
+BRIEF descriptor extraction in 2.33536 ms
+FAST detector has found 982 keypoints in 0.614929 ms
+BRIEF descriptor extraction in 2.6095 ms
+FAST detector has found 955 keypoints in 0.528703 ms
+BRIEF descriptor extraction in 2.28807 ms
+FAST detector has found 979 keypoints in 0.576786 ms
+BRIEF descriptor extraction in 2.25123 ms
+FAST detector has found 1010 keypoints in 0.56711 ms
+BRIEF descriptor extraction in 2.93555 ms
+FAST detector has found 972 keypoints in 0.538134 ms
+BRIEF descriptor extraction in 2.28186 ms
+FAST detector has found 971 keypoints in 0.538173 ms
+BRIEF descriptor extraction in 2.23306 ms
+FAST detector has found 1035 keypoints in 0.593107 ms
+BRIEF descriptor extraction in 2.3924 ms
+FAST detector has found 1018 keypoints in 0.547612 ms
+BRIEF descriptor extraction in 2.33899 ms
+FAST detector has found 1012 keypoints in 0.532694 ms
+BRIEF descriptor extraction in 2.24647 ms
